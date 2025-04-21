@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 💼 PySide python desktop application- Billing App 
 
 A modern, full-featured desktop billing system built with **PySide6**, **MySQL**, and **FPDF**, designed for small businesses to manage customer billing, track sales, and generate invoices.
@@ -150,7 +149,3 @@ Bill emailing
 Product inventory tracking
 
 SQLite support for easy local use
-=======
-# py-billing-app
-A modern, full-featured desktop billing system built with **PySide6**, **MySQL**, and **FPDF**, designed for small businesses to manage customer billing, track sales, and generate invoices.
->>>>>>> 8875d52f36737151efb4e720b8f9732015f51452
